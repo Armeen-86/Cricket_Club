@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "age": 36
+  },
+  {
+    "name": "Tamim Iqbal",
+    "role": "Batsman",
+    "age": 34
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "role": "Wicket-keeper",
+    "age": 35
+  },
+  {
+    "name": "Taskin Ahmed",
+    "role": "Bowler",
+    "age": 30
+  },
+  {
+    "name": "Liton Das",
+    "role": "Batsman",
+    "age": 29
+  },
+  {
+    "name": "Mehidy Hasan Miraz",
+    "role": "All-rounder",
+    "age": 27
+  },
+  {
+    "name": "Mahmudullah Riyad",
+    "role": "All-rounder",
+    "age": 38
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "age": 28
+  }
+]

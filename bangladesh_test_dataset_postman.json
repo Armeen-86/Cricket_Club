@@ -1,0 +1,75 @@
+{
+  "clubs": [
+    {
+      "name": "Barisal Bulls",
+      "location": "Barisal, Bangladesh",
+      "founded": 2014
+    },
+    {
+      "name": "Rangpur Riders",
+      "location": "Rangpur, Bangladesh",
+      "founded": 2013
+    },
+    {
+      "name": "Mymensingh Marvels",
+      "location": "Mymensingh, Bangladesh",
+      "founded": 2017
+    }
+  ],
+  "players": [
+    {
+      "name": "Soumya Sarkar",
+      "role": "All-rounder",
+      "age": 32
+    },
+    {
+      "name": "Najmul Hossain Shanto",
+      "role": "Batsman",
+      "age": 27
+    },
+    {
+      "name": "Mohammad Saifuddin",
+      "role": "Bowler",
+      "age": 29
+    },
+    {
+      "name": "Nurul Hasan Sohan",
+      "role": "Wicket-keeper",
+      "age": 31
+    }
+  ],
+  "tournaments": [
+    {
+      "name": "BPL Summer Cup 2025",
+      "startDate": "2025-06-05",
+      "endDate": "2025-06-25"
+    },
+    {
+      "name": "Bangladesh Independence Trophy 2025",
+      "startDate": "2025-03-15",
+      "endDate": "2025-03-30"
+    }
+  ],
+  "matches": [
+    {
+      "date": "2025-06-06",
+      "venue": "Barisal Stadium, Barisal"
+    },
+    {
+      "date": "2025-06-08",
+      "venue": "Rangpur Cricket Arena, Rangpur"
+    }
+  ],
+  "tickets": [
+    {
+      "buyerName": "Abdul Karim",
+      "seats": 2,
+      "price": 1200
+    },
+    {
+      "buyerName": "Fatema Khatun",
+      "seats": 5,
+      "price": 3000
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "buyerName": "Rahim Uddin",
+    "seats": 3,
+    "price": 1500
+  },
+  {
+    "buyerName": "Nasrin Akter",
+    "seats": 2,
+    "price": 1000
+  },
+  {
+    "buyerName": "Sohail Khan",
+    "seats": 4,
+    "price": 2000
+  },
+  {
+    "buyerName": "Farhana Islam",
+    "seats": 1,
+    "price": 500
+  }
+]

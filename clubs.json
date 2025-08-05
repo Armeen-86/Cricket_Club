@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dhaka Warriors",
+    "location": "Dhaka, Bangladesh",
+    "founded": 2015
+  },
+  {
+    "name": "Chattogram Challengers",
+    "location": "Chattogram, Bangladesh",
+    "founded": 2010
+  },
+  {
+    "name": "Sylhet Sixers",
+    "location": "Sylhet, Bangladesh",
+    "founded": 2018
+  },
+  {
+    "name": "Rajshahi Royals",
+    "location": "Rajshahi, Bangladesh",
+    "founded": 2013
+  },
+  {
+    "name": "Khulna Titans",
+    "location": "Khulna, Bangladesh",
+    "founded": 2012
+  }
+]
